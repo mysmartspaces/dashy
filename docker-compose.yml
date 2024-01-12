@@ -4,7 +4,7 @@
 version: "3.8"
 services:
   dashy:
-    container_name: Dashy
+    container_name: dash
 
     # Pull latest image from DockerHub
     image: lissy93/dashy
